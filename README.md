@@ -23,7 +23,7 @@
 💼 [LinkedIn](https://linkedin.com/in/msmosso)
 
 
-🤳 [Instagram](htttps://instagram.com/msmosso)
+🤳 [Instagram](https://instagram.com/msmosso)
 
 
 
