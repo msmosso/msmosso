@@ -25,9 +25,10 @@
 📍 Suporte na Suíte de Automação Comercial Sincronos (Controle/Análise de Estoque, Finanças, Sistema de Compras, Nota Fiscal Eletrônica, PAF-ECF, entre outros) e manutenção básica de bases SQL Server.
 
 
+
 ### Censanet
 
-#### Programador (dez. de 2017 – mai. de 201)
+#### Programador (dez. de 2017 – mai. de 2019)
 
 📍 Desenvolvimento de hotsites e aplicações web (utilizando HTML, CSS, Javascript, Bootstrap) e APIs REST para aplicações Android e iOS (utilizando o framework Symfony como back-end)
 
@@ -35,10 +36,29 @@
 
 💡 Auxílio na implementação de estruturação do desenvolvimento utilizando containers (Docker)
 
-
-### Operador de Testes de Sistema (jun. de 2015 – dez. de 2017)
+#### Operador de Testes de Sistema (jun. de 2015 – dez. de 2017)
 
 📍 Execução/criação de testes manuais e automatizados (utilizando python e shellscript) nos softwares embutidos em STBs (receptores de TV) SKY/DirecTV/AT&T
+
+
+### Bram Offshore
+
+#### Analista de Sistemas Pleno (jun. de 2019 - presente)
+
+Desenvolvedor da plataforma TOTVS Fluig:
+
+📌 Desenvolvimento de processos BPM
+
+📌 Desenvolvimento de formulários (utilizando HTML, Vanilla JavaScript, jQuery, Bootstrap)
+
+📌 Desenvolvimento de widgets e layouts
+
+📌 Desenvolvimento de datasets personalizados.
+
+💡 Implementação de servidor Git utilizando gitea, uma solução open source.
+
+💡 Migração do website para instância Amazon EC2
+
 
 
 ### Me encontre por aí
