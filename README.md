@@ -103,8 +103,6 @@
   </a>
 </p>
 
-<br />
-
 ### Contato
 
 🐦 [Twitter](https://twitter.com/msmosso)
