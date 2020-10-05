@@ -1,81 +1,113 @@
-### Olá, sou o Matheus! 👋
+## Olá! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-💻 Analista de Sistemas Pleno @ Bram Offshore
+### Resumo
 
+- 👨🏻‍💻 Trabalho na [BRAM Offshore](https://bramoffshore.com.br) como Desenvolvedor Fluig
+- Interesses: Javascript, NodeJS, Flutter, React[.js| Native], DevOPS
 
-📍 Nascido em Campos dos Goytacazes, RJ
+### Linguagens e Ferramentas
 
+<br />
 
-📍 Morando no Rio de Janeiro, RJ
+<p align="left">
+  <a href="https://www.w3.org/TR/2001/WD-css3-roadmap-20010523/" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/css3/css3-original-wordmark.svg"
+      alt="css3"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://bitbucket.com" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/bitbucket/bitbucket-original.svg"
+      alt="bitbucket"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/visualstudio/visualstudio-plain.svg"
+      alt="visual studio code"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://aws.amazon.com" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      alt="aws"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
+      alt="docker"
+      width="40"
+      height="40"
+    />
+  </a>
+   <a href="https://apache.org/" target="_blank">
+    <img
+      src="https://devicon.dev/devicon.git/icons/apache/apache-original-wordmark.svg"
+      alt="apache"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a
+    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+    target="_blank"
+  >
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg"
+      alt="postgresql"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img
+      src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"
+      alt="typescript"
+      width="40"
+      height="40"
+    />
+  </a>
+</p>
 
-..
-
-### Já Trabalhei..
-
-## CTIS Tecnologia S/A (jun. de 2011 - ago. de 2011)
-
-### Analista de Suporte Computacional Júnior
-
-📍 Suporte a recursos de TI para usuários, registrando problemas/soluções em plataforma de workflow fornecida pela Petrobras.
-
-## Tetra Soluções Empresariais 
-
-### Analista de Suporte (mai. de 2013 – jun. de 2015)
-
-📍 Suporte na Suíte de Automação Comercial Sincronos (Controle/Análise de Estoque, Finanças, Sistema de Compras, Nota Fiscal Eletrônica, PAF-ECF, entre outros) e manutenção básica de bases SQL Server.
-
-
-
-## Censanet
-
-### Programador (dez. de 2017 – mai. de 2019)
-
-📍 Desenvolvimento de hotsites e aplicações web (utilizando HTML, CSS, Javascript, Bootstrap) e APIs REST para aplicações Android e iOS (utilizando o framework Symfony como back-end)
-
-📍 Desenvolvimento de funcionalidade de exibição de horário de trabalho e auxilio na implementacão de funcionalidade para exibição de contracheque de colaboradores em ferramenta de RH desenvolvida internamente, utilizando integracão com ERP da TOTVS (ASP.NET).
-
-💡 Auxílio na implementação de estruturação do desenvolvimento utilizando containers (Docker)
-
-### Operador de Testes de Sistema (jun. de 2015 – dez. de 2017)
-
-📍 Execução/criação de testes manuais e automatizados (utilizando python e shellscript) nos softwares embutidos em STBs (receptores de TV) SKY/DirecTV/AT&T
-
-
-
-## Bram Offshore
-
-### Analista de Sistemas Pleno (jun. de 2019 - presente)
-
-Desenvolvedor da plataforma TOTVS Fluig:
-
-📌 Desenvolvimento de processos BPM
-
-📌 Desenvolvimento de formulários (utilizando HTML, Vanilla JavaScript, jQuery, Bootstrap)
-
-📌 Desenvolvimento de widgets e layouts
-
-📌 Desenvolvimento de datasets personalizados.
-
-💡 Implementação de servidor Git utilizando gitea, uma solução open source.
-
-💡 Migração do website para instância Amazon EC2
-
-
-...
-
-### Me encontre por aí
-
-
-🚀 [Website](https://msmosso.github.io)
-
+🚀 [Currículo](https://msmosso.github.io)
 
 🐦 [Twitter](https://twitter.com/msmosso)
 
-
 💼 [LinkedIn](https://linkedin.com/in/msmosso)
-
-
-🤳 [Instagram](https://instagram.com/msmosso)
 
 
 
