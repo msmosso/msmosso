@@ -103,7 +103,9 @@
   </a>
 </p>
 
-🚀 [Currículo](https://msmosso.github.io)
+<br />
+
+### Contato
 
 🐦 [Twitter](https://twitter.com/msmosso)
 
