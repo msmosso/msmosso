@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msmosso" alt="msmosso" /> </p>
 
-- 🔭 Trabalho atualmentena [Bram Offshore](https://bramoffshore.com.br) como Analista de Sistemas 👨🏻‍💻
+- 🔭 Trabalho atualmente na [Bram Offshore](https://bramoffshore.com.br) como Analista de Sistemas 👨🏻‍💻
 
 - 🌱 Interesses: **Javascript, NodeJS, Flutter, React[.js| Native], DevOPS, Power BI**
 <br />
