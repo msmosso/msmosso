@@ -1,9 +1,3 @@
-<style>
-  .fix {
-    max-width: 42% !important;
-  }
-</style>
-
 <h1 align="center">Hi 🤙🏻, I'm Matheus Mósso</h1>
 <h3 align="center">Systems Analyst</h3>
 
@@ -25,4 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msmosso&show_icons=true&locale=en&layout=compact" alt="msmosso" /></p>
 
-<p>&nbsp;<img class="fix" align="center" src="https://github-readme-stats.vercel.app/api?username=msmosso&show_icons=true&locale=en" alt="msmosso"/></p>
+<p>&nbsp;<img style="max-width: 42% !important;" align="center" src="https://github-readme-stats.vercel.app/api?username=msmosso&show_icons=true&locale=en" alt="msmosso"/></p>
