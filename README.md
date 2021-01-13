@@ -1,11 +1,11 @@
 <h1 align="center">Hi 🤙🏻, I'm Matheus Mósso</h1>
 <h3 align="center">Systems Analyst</h3>
 
-- 👨‍💻 I’m currently working at **Bram Offshore**
+👨‍💻 Currently working at **Bram Offshore**
 
-- 🌱 I’m currently learning **Express, NestJS, React Native**
+🌱 Learning **Express, NestJS, React Native**
 
-- 📫 How to reach me **msmosso@gmail.com**
+📫 **msmosso@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
